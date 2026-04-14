@@ -1,0 +1,7 @@
+node_modules/
+scrape-*-debug.txt
+scrape-debug.txt
+package-lock.json
+*.log
+.DS_Store
+Thumbs.db

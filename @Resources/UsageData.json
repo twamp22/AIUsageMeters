@@ -1,0 +1,11 @@
+{
+  "claude": {
+    "session":         { "resetAtUtc": "", "used": 0, "max": 100 },
+    "weeklyAllModels": { "resetAtUtc": "", "used": 0, "max": 100 },
+    "weeklySonnet":    { "resetAtUtc": "", "used": 0, "max": 100 }
+  },
+  "codex": {
+    "session": { "resetAtUtc": "", "used": 0, "max": 100 },
+    "weekly":  { "resetAtUtc": "", "used": 0, "max": 100 }
+  }
+}
